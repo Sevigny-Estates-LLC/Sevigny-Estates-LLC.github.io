@@ -1,5 +1,0 @@
-// increase specificity to overwrite default block editor styles
-ul.wp-block-categories__list[class] {
-    @include archives;
-    padding-left: 0;
-}
